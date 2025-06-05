@@ -1,0 +1,18 @@
+Meeting am 18.12.2024 (Fuchsberger-Staufer)
+- Im Januar wieder schreiben
+- Was (Hobbys etc) koennte fuer Bachelor-Arbeit passen?
+
+Meeting am 16.01.2024 (Murer)
+- Paper zu Touchscreen- und Induction-Studie lesen
+
+Meeting am 23.01.2024 (Murer)
+- Ariktel/Paper lesen zu aehnlichen Themen
+- Plan erstellen (Hardware, etc)
+- Minimaler Prototyp -> Daten auswerten -> weiter entwickeln
+- BibDesk (Quellen fuer LaTeX verwalten)
+- Bachelor-Seminar Terminliste weiterleiten
+- 1 Milestone
+	Datasheet zu Arduinos/Microcontroller erstellen
+	Achtung: Micro-USB mit Datenuebertragung
+	Mit Kabel an PC verbunden -> Würfel auf Screen bewegt sich mit
+	Beschleunigungssenoren: absolute Position (10 Sensoren vermutlich)
