@@ -1,6 +1,6 @@
-# Theses
-Repository for my theses
+# Bachelor Theses
 
-## Bachelor Thesis
+## Title TBA
+
+## Information
 Supervisor: DI (FH) Dr. Martin Murer <br>
-Title: -
