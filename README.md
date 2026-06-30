@@ -10,7 +10,7 @@ DI (FH) Dr. Martin Murer <br>
 ### Structure
 ![Image of the Prototype Structure. A wooden cube with an Arduino and IMU inside, connected to a Laptop via Bluetooth](images/structure.jpg)
 
-A wooden cube with an `Arduino` (Nano 33 BLE), `Inertial Measurement Unit` (IMU - BNO08X) and a Battery is connected via Bluetooth to a Laptop.
+A wooden cube with an `Arduino` (Nano 33 BLE) [[Arduino Sketch](https://github.com/danielkrall98/bachelor_thesis/blob/main/arduino_sketch/cube.ino)], `Inertial Measurement Unit` (IMU - BNO08X) and a Battery is connected via Bluetooth to a Laptop.
 
 The connection via Bluetooth (BLE) is established by a [Python script](https://github.com/danielkrall98/bachelor_thesis/blob/main/python_script/cube.py). This script also includes the transfer of rotation and acceleration data from the IMU (via Arduino) to Processing (using OSC).
 
